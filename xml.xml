@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE room[ 
+
+<!ELEMENT room (Lab , students , Semister)>
+<!ELEMENT Lab (#PCDATA)>
+<!ELEMENT students (#PCDATA)>
+<!ELEMENT Semister (#PCDATA)>
+]>
+
+<Aptech>
+<room id="1">
+<Lab>4</Lab>
+<students>18</students>
+<Semister>2</Semister>
+</room>
+<room id="2">
+<Lab>5</Lab>
+<students>22</students>
+<Semister>1</Semister>
+</room>
+<room id="3">
+<Lab>1</Lab>
+<students>23</students>
+<Semister>4</Semister>
+</room>
+</Aptech>
