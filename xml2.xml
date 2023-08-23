@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kababjees
+xmlns:resturent="http://kababjees.com"
+xmlns:resturent2="http://mubarakresturent.com"
+xmlns:resturent3="http://mubarakresturent.com"
+>
+<resturent:food dietail="1">
+<product>zinger burger</product>
+<price>299Rs</price>
+</resturent:food>
+<resturent:food dietail="1">
+<product>beaf burger</product>
+<price>599Rs</price>
+</resturent:food>
+
+<resturent2:food dietail="2">
+<product>kabab Roll</product>
+<price>90Rs</price>
+</resturent2:food>
+<resturent2:food dietail="2">
+<product>pizza</product>
+<price>999Rs</price>
+</resturent2:food>
+
+<resturent3:food dietail="3">
+<product>cold drinks</product>
+<price>150Rs</price>
+</resturent3:food>
+<resturent3:food dietail="3">
+<product>Nihari</product>
+<price>500Rs</price>
+</resturent3:food>
+</kababjees>
